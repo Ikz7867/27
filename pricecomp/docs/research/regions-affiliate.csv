@@ -1,0 +1,10 @@
+group,network,country,program_evidence,docs_url,status
+affiliate,Adrecord,Denmark,"Datafeedr API docs sample lists 'Adrecord Denmark' as a country-specific network record.",https://datafeedr.github.io/datafeedr-api-docs/,"Example response only; current program/access unverified"
+affiliate,Adrecord,Finland,"Datafeedr API docs sample lists 'Adrecord Finland' as a country-specific network record.",https://datafeedr.github.io/datafeedr-api-docs/,"Example response only; current program/access unverified"
+affiliate,Adrecord,Norway,"Datafeedr API docs sample lists 'Adrecord Norway' as a country-specific network record.",https://datafeedr.github.io/datafeedr-api-docs/,"Example response only; current program/access unverified"
+affiliate,Adrecord,Sweden,"Datafeedr API docs sample lists 'Adrecord Sweden' as a country-specific network record.",https://datafeedr.github.io/datafeedr-api-docs/,"Example response only; current program/access unverified"
+affiliate,Zanox,Norway,"Datafeedr API docs sample lists 'Zanox Norway'; the sample is legacy and is not a current coverage assertion.",https://datafeedr.github.io/datafeedr-api-docs/,"Legacy documentation example; not counted as active"
+affiliate,Zanox,Poland,"Datafeedr API docs sample lists 'Zanox Poland'; the sample is legacy and is not a current coverage assertion.",https://datafeedr.github.io/datafeedr-api-docs/,"Legacy documentation example; not counted as active"
+affiliate,Zanox,Spain,"Datafeedr API docs sample lists 'Zanox Spain'; the sample is legacy and is not a current coverage assertion.",https://datafeedr.github.io/datafeedr-api-docs/,"Legacy documentation example; not counted as active"
+affiliate,Zanox,Sweden,"Datafeedr API docs sample lists 'Zanox Sweden'; the sample is legacy and is not a current coverage assertion.",https://datafeedr.github.io/datafeedr-api-docs/,"Legacy documentation example; not counted as active"
+affiliate,Zanox,Switzerland,"Datafeedr API docs sample lists 'Zanox Switzerland'; the sample is legacy and is not a current coverage assertion.",https://datafeedr.github.io/datafeedr-api-docs/,"Legacy documentation example; not counted as active"

@@ -1,0 +1,8 @@
+.codex-remote-attachments/
+.env
+.env.*
+!.env.example
+*.pem
+pricecomp/vendor/
+pricecomp/var/
+.phpunit.cache/
